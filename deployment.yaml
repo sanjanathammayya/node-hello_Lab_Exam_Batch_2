@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-hello
-        image: sanjana0910/nodejs_hello1:v2 
+        image: sanjana0910/nodejs_hello2:v3 
         ports:
         - containerPort: 3000
